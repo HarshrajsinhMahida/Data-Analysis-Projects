@@ -25,5 +25,4 @@ This repository contains two projects demonstrating global data analytics using 
 - GitHub for version control
 
 ## 🔗 Author
-[Your Name]  
-[LinkedIn Profile](https://linkedin.com/in/yourname)
+Harshrajsinh Mahida
